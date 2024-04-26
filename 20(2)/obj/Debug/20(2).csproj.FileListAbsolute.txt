@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\Desktop\20(2)\bin\Debug\20(2).exe.config
+C:\Users\Kab-35-6\Desktop\20(2)\bin\Debug\20(2).exe
+C:\Users\Kab-35-6\Desktop\20(2)\bin\Debug\20(2).pdb
+C:\Users\Kab-35-6\Desktop\20(2)\obj\Debug\20(2).csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\Desktop\20(2)\obj\Debug\20(2).csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\Desktop\20(2)\obj\Debug\20(2).exe
+C:\Users\Kab-35-6\Desktop\20(2)\obj\Debug\20(2).pdb
